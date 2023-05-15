@@ -52,4 +52,4 @@ void traverse(ListNode* head) {
 ```
 
 ![表遍历图片](https://github.com/chenyujiehome/algorithmLib/blob/main/binaryTree/traverseList.jpeg)
-* 表遍历图 *
+*表遍历图*
